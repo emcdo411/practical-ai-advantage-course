@@ -119,11 +119,12 @@ flowchart TD
     D --> G[Completes Workflow Exercises]
     E --> G
     F --> G
-    G --> H[Earns "Practical AI Advantage" Certification]
+    G --> H[Earns Practical AI Advantage Certification]
     H --> I[Deploys Skills in Workplace]
     I --> J[Scales Services / Creates Templates]
     J --> K[Licenses Work under DACR Framework]
     K --> L[Continuous Learning Loop]
+
 ````
 
 ---
