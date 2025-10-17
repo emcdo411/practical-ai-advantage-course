@@ -93,7 +93,7 @@ Upon termination, you must **cease all commercial distribution** and remove all 
 To obtain written permissions, partnership approval, or clarification on DACR-compliant usage, contact:
 
 **Author:** Erwin Maurice McDonald  
-**Email:** maurice@level-field.ai  
+**Email:** moe.mcdonald@gmail.com  
 **GitHub:** [@emcdo411](https://github.com/emcdo411)
 
 ---
