@@ -27,6 +27,8 @@
 8. [Workflow Diagram](#workflow-diagram)
 9. [Ethical Licensing — DACR](#ethical-licensing--dacr)
 10. [Contributors & Acknowledgments](#contributors--acknowledgments)
+11. [Support the Project](#support-the-project)
+
 
 ---
 
