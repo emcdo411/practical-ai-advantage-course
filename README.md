@@ -1,5 +1,15 @@
 # 🧠 Practical AI Advantage: Real AI Skills for Real Professionals
 
+[![License: DACR](https://img.shields.io/badge/License-DACR-black?style=for-the-badge)](LICENSE.md)
+[![AI Stack: ChatGPT](https://img.shields.io/badge/AI_Stack-ChatGPT-00A67D?logo=openai&logoColor=white&style=for-the-badge)](https://chat.openai.com/)
+[![Dashboards: Mito + Plotly](https://img.shields.io/badge/Dashboards-Mito_+_Plotly-1f6fea?logo=plotly&logoColor=white&style=for-the-badge)](https://plotly.com/)
+[![Docs: Markdown + Mermaid](https://img.shields.io/badge/Docs-Markdown_+_Mermaid-0f172a?logo=markdown&logoColor=white&style=for-the-badge)](#workflow-diagram)
+[![Automation: GitHub Actions](https://img.shields.io/badge/Automation-GitHub_Actions-2088FF?logo=githubactions&logoColor=white&style=for-the-badge)](https://docs.github.com/actions)
+[![Design: Canva](https://img.shields.io/badge/Design-Canva-00C4CC?logo=canva&logoColor=white&style=for-the-badge)](https://www.canva.com/)
+[![Productivity: Notion](https://img.shields.io/badge/Productivity-Notion-000000?logo=notion&logoColor=white&style=for-the-badge)](https://www.notion.so/)
+[![Scheduling: Calendly](https://img.shields.io/badge/Scheduling-Calendly-0069ff?logo=calendly&logoColor=white&style=for-the-badge)](https://calendly.com/)
+[![Payments: PayPal](https://img.shields.io/badge/Payments-PayPal-00457C?logo=paypal&logoColor=white&style=for-the-badge)](https://www.paypal.com/)
+
 > **Mission:** Helping technical and business professionals modernize their workflows with AI — no coding, no GitHub complexity, no hype.  
 > This repository is designed for Business Analysts, Technical Project Managers, and Consultants ready to level up through practical, ethical, and enterprise-ready AI enablement.
 
@@ -124,7 +134,6 @@ flowchart TD
     I --> J[Scales Services / Creates Templates]
     J --> K[Licenses Work under DACR Framework]
     K --> L[Continuous Learning Loop]
-
 ````
 
 ---
@@ -152,7 +161,7 @@ For full license text, see [`LICENSE.md`](LICENSE.md).
 ## 🤝 Contributors & Acknowledgments
 
 Developed by **Erwin Maurice McDonald**
-AI Strategist · AI Literacy and Adoption Consultant · Operations Engineering Consultant 
+AI Strategist · AI Literacy and Adoption Consultant · Operations Engineering Consultant
 📍 Dallas–Fort Worth, TX | 🌍 Building bridges between AI and everyday business professionals
 
 ---
@@ -165,5 +174,5 @@ If this repository helps your learning or business journey:
 * Share your dashboard builds or resume revamps using **#PracticalAIAdvantage**
 * Tag [@emcdo411](https://github.com/emcdo411) to be featured in the community showcase!
 
----
+```
 
